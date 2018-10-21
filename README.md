@@ -3,8 +3,8 @@ PicoPico BOX
 
 This is a Project of "PicoPico BOX", that is a Musical Instrument with 8-bit sound.
 Some boards, a speaker and some parts on the market are combined into the gadget.
-By using X-BOX One controller can be played mucsic.
-"PicoPico" is a japanese Onomatopoeia to express 8-bit sound.
+By using X-BOX One controller can be played music.
+"Pico Pico" is a Japanese Onomatopoeia to express 8-bit sound.
 
 [PicoPico BOX](img/PicoPicoBox.jpg)  
 ![PicoPico BOX](img/PicoPicoBox_thum.jpg)
