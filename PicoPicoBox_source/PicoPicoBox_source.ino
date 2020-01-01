@@ -3,7 +3,7 @@
 //------------------------------------------------------------
 #include <XBOXONE.h>
 
-#define SOUND_OUT_PIN  (3)
+#define SOUND_OUT_PIN  (7)
 
 // Satisfy the IDE, which needs to see the include statment in the ino too.
 #ifdef dobogusinclude
