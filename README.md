@@ -5,9 +5,10 @@ This is a Project of "PicoPico BOX", that is a Musical Instrument with 8-bit sou
 Some boards, a speaker and some parts on the market are combined into the gadget.
 By using X-BOX One controller can be played music.
 "Pico Pico" is a Japanese Onomatopoeia to express 8-bit sound.
+There is a smaller version. It is called PicoPico-Box mini and written below.
 
-[PicoPico BOX](img/PicoPicoBox.jpg)  
-![PicoPico BOX](img/PicoPicoBox_thum.jpg)
+[PicoPico BOX and mini version (left)](img/PicoPicoBoxes.jpg)  
+![PicoPico BOX and mini version (left)](img/PicoPicoBoxes_thum.jpg)
 
 
 ## Features
@@ -61,6 +62,9 @@ to compile/write PicoPicoBox_source.ino,  [USB Host Library](https://github.com/
 
 ## Pictures
 
+[PicoPico BOX connectiing X-BOX One Controller](img/PicoPicoBox.jpg)  
+![PicoPico BOX connectiing X-BOX One Controller](img/PicoPicoBox_thum.jpg)
+
 [PicoPico BOX](img/PicoPicoBox_NoPad.jpg)  
 ![PicoPico BOX](img/PicoPicoBox_NoPad_thum.jpg)
 
@@ -78,3 +82,24 @@ to compile/write PicoPicoBox_source.ino,  [USB Host Library](https://github.com/
 
 [Demo 1](https://mastodos.com/@mashigure/100610630158137810)  
 [Demo 2 (Pitch bend)](https://mastodos.com/@mashigure/100684869354390235)
+
+
+# PicoPico-Box mini
+
+The smaller version of PicoPico-Box.
+This model does not have USB Midi function, however has micro:bit as a wireless communication module.
+
+
+## Pictures
+
+[PicoPico BOX mini](img/PicoPicoBoxMini.jpg)  
+![PicoPico BOX mini](img/PicoPicoBoxMini_thum.jpg)
+
+[PicoPico BOX mini](img/mini_portable.jpg)  
+![PicoPico BOX mini](img/mini_portable_thum.jpg)
+
+[PicoPico BOX mini](img/PortablePicoPicoBox.jpg)  
+![PicoPico BOX mini](img/PortablePicoPicoBox_thum.jpg)
+
+[Internal](img/mini_internal.jpg)  
+![Internal](img/mini_internal_thum.jpg)
