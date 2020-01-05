@@ -21,7 +21,7 @@ There is a smaller version. It is called PicoPico-Box mini and written below.
 
 ## Configuration
 
-![Configuration](img/Configuration.png)
+![Configuration](img/Configuration.jpg)
 
 Actually, Sound Source (Arduino) part and Speaker part are independent of each other.
 
@@ -41,7 +41,6 @@ Actually, Sound Source (Arduino) part and Speaker part are independent of each o
 |USB Plug USB-4AM103AS|50|1|50|
 |Universal Circuit Board P-08241|30|1|30|
 |Speaker AT-SPB200|2,570|1|2,570|
-|Battery Box (AAA*3) BH431A|75|1|75|
 |Battery Box (AAA*2) BH425A|51|1|51|
 |Battery Box (AAA*4) BH441A|103|1|103|
 |Toggle switch MS500FF|405|1|405|
@@ -49,7 +48,7 @@ Actually, Sound Source (Arduino) part and Speaker part are independent of each o
 |Dial 15X15JXPS|268|1|268|
 |Stereo mini jack HK-MJ01H|401|2|802|
 
-Total Cost ... JPY 9,137
+Total Cost ... JPY 9,062
 
 
 ## Files in this Project
@@ -88,6 +87,11 @@ to compile/write PicoPicoBox_source.ino,  [USB Host Library](https://github.com/
 
 The smaller version of PicoPico-Box.
 This model does not have USB Midi function, however has micro:bit as a wireless communication module.
+
+
+## Configuration
+
+![Configuration](img/Configuration_mini.jpg)
 
 
 ## Pictures
