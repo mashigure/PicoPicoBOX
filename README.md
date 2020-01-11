@@ -79,6 +79,7 @@ to compile/write PicoPicoBox_source.ino,  [USB Host Library](https://github.com/
 
 ## Videos
 
+[Introduction in Japanese](https://nico.ms/sm36208707)  
 [Demo 1](https://mastodos.com/@mashigure/100610630158137810)  
 [Demo 2 (Pitch bend)](https://mastodos.com/@mashigure/100684869354390235)
 
